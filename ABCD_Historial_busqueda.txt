@@ -1,0 +1,97 @@
+                  Historial de Busqueda :
+
+Nombre: Charizard
+
+Información:
+'Tipo: Fuego - Volador'
+ 'Habilidad: Mar llamas'
+ 'Peso: 90.5kg'
+ 'Altura: 1.7m'
+
+Nombre: Pikachu
+
+Información:
+'Tipo: Electrico'
+ 'Habilidad: Electricidad estatica'
+ 'Peso: 6.0kg'
+ 'Altura: 0.4m'
+
+Nombre: Pikachu
+
+Información:
+'Tipo: Electrico'
+ 'Habilidad: Electricidad estatica'
+ 'Peso: 6.0kg'
+ 'Altura: 0.4m'
+
+Nombre: Mew
+
+Información:
+'Tipo: Psiquico'
+ 'Habilidad: Sincronia'
+ 'Peso: 4.0 kg'
+ 'Altura: 0.4 m'
+
+Nombre: Pikachu
+
+Información:
+'Tipo: Electrico'
+ 'Habilidad: Electricidad estatica'
+ 'Peso: 6.0kg'
+ 'Altura: 0.4m'
+
+Nombre: Mew
+
+Información:
+'Tipo: Psiquico'
+ 'Habilidad: Sincronia'
+ 'Peso: 4.0 kg'
+ 'Altura: 0.4 m'
+
+Nombre: Psyduck
+
+Información:
+'Tipo: Agua'
+ 'Habilidad: Humedad'
+ 'Peso: 19.6kg'
+ 'Altura: 0.8m'
+
+Nombre: Pikachu
+
+Información:
+'Tipo: Electrico'
+ 'Habilidad: Electricidad estatica'
+ 'Peso: 6.0kg'
+ 'Altura: 0.4m'
+
+Nombre: Pikachu
+
+Información:
+'Tipo: Electrico'
+ 'Habilidad: Electricidad estatica'
+ 'Peso: 6.0kg'
+ 'Altura: 0.4m'
+
+Nombre: Charmander
+
+Información:
+'Tipo: Fuego'
+ 'Habilidad: Mar llamas'
+ 'Peso: 8.5kg'
+ 'Altura: 0.6m'
+
+Nombre: Snorlax
+
+Información:
+'Tipo: Normal'
+ 'Habilidad: Sebo-Inmunidad'
+ 'Peso: 460.0 kg'
+ 'Altura: 2.1 m'
+
+Nombre: Snorlax
+
+Información:
+'Tipo: Normal'
+ 'Habilidad: Sebo-Inmunidad'
+ 'Peso: 460.0 kg'
+ 'Altura: 2.1 m'
